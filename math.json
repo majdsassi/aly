@@ -1,0 +1,242 @@
+[
+    {
+      "year": 2009,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2009/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2009/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2010/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2010/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2011/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2011/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2012/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2012/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2013/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2013/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2014/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2014/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2015/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2015/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2016/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2016/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2017/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2017/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2018/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2018/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2019/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2019/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2020/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2020/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2021/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2021/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2022/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2022/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2023/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2023/controle/math/physique.pdf"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "pdfFiles": [
+        {
+          "id": 1,
+          "name": "Principale",
+          "url": "http://bacweb.tn/bac/2024/principale/math/physique.pdf"
+        },
+        {
+          "id": 2,
+          "name": "Controle",
+          "url": "http://bacweb.tn/bac/2024/controle/math/physique.pdf"
+        }
+      ]
+    }
+  ]
